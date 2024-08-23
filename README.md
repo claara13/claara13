@@ -1,10 +1,10 @@
 ## Olá, me chamo Maria Clara! ##
-- Tenho 17 anos
+- Tenho 18 anos
 - Sou estudante
 - Moro em Itapeva/SP
 
 **Escola SESI/SENAI**
-- Estou no 2º ano E.M
+- Estou no 3º ano E.M
 - Faço curso técnico em Desenvolvimento de Sistemas(1/2 anos)
 
 ## Estou aprendendo:
